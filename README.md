@@ -2,7 +2,7 @@
 ### NX421 - Neural Signals and Signal Processing
 ### Team Members - Angana, Heliya, Khushi, Arnault, Pamela
 
-##### Please find the detailed Project Report [here](https://github.com/Angana1/MRI-Analysis-to-detect-Brain-Region-Activity/blob/main/Report.pdf).
+#### Please find the detailed Project Report [here](https://github.com/Angana1/MRI-Analysis-to-detect-Brain-Region-Activity/blob/main/Report.pdf).
 
 In this project, we compare the neural activation during motion of hands vs feet on a visual cue, using BOLD response in fMRI data. We perform skull-stripping and segmentation for
 structural preprocessing. For functional preprocessing, we filter for problematic MRI volumes, and appl Variance Normalisation, Motion Correction, Coregistration and Gaussian 
